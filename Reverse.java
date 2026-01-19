@@ -1,4 +1,4 @@
-class Reverse {
+public class Reverse_while {
     public static void main(String[] args) {
         int n = 1234;
         int rev = 0;
@@ -9,3 +9,4 @@ class Reverse {
         System.out.println(rev);
     }
 }
+
