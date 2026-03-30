@@ -1,0 +1,13 @@
+Êþº¾   > /
+      java/lang/Object <init> ()V  java/util/Scanner	 
+   
+  java/lang/System in Ljava/io/InputStream;
+     (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  Enter a number: 
+      java/io/PrintStream print (Ljava/lang/String;)V
+     ! nextInt ()I
+  # $ % println (I)V ' Forloop Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile Forloop.java ! &           (        *· ±    )        	 * +  (   p     -» Y² 	· L² ¶ +¶ =>£ ² ¶ "„§ÿñ±    )                &  , 
+ ,   
+ þ  ú   -    .
